@@ -1,0 +1,7 @@
+{
+  "name": "tvbox",  // 自定义项目名称（如 "my-tvbox-site"）
+  "compatibility_date": "2025-11-20",  // 兼容日期（与日志日期一致，固定不变）
+  "assets": {
+    "directory": "."  // 静态资源目录路径（指向包含 index.html 的文件夹）
+  }
+}
